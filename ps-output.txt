@@ -1,0 +1,200 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 22:20 ?        00:00:01 /sbin/init splash
+root           2       0  0 22:20 ?        00:00:00 [kthreadd]
+root           3       2  0 22:20 ?        00:00:00 [rcu_gp]
+root           4       2  0 22:20 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 22:20 ?        00:00:00 [slub_flushwq]
+root           6       2  0 22:20 ?        00:00:00 [netns]
+root           8       2  0 22:20 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 22:20 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 22:20 ?        00:00:00 [rcu_tasks_kthread]
+root          12       2  0 22:20 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          13       2  0 22:20 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          14       2  0 22:20 ?        00:00:00 [ksoftirqd/0]
+root          15       2  0 22:20 ?        00:00:01 [rcu_preempt]
+root          16       2  0 22:20 ?        00:00:00 [migration/0]
+root          17       2  0 22:20 ?        00:00:00 [idle_inject/0]
+root          19       2  0 22:20 ?        00:00:00 [cpuhp/0]
+root          20       2  0 22:20 ?        00:00:00 [kdevtmpfs]
+root          21       2  0 22:20 ?        00:00:00 [inet_frag_wq]
+root          22       2  0 22:20 ?        00:00:00 [kauditd]
+root          23       2  0 22:20 ?        00:00:00 [khungtaskd]
+root          24       2  0 22:20 ?        00:00:00 [oom_reaper]
+root          25       2  0 22:20 ?        00:00:00 [kworker/u2:1-ext4-rsv-conversion]
+root          27       2  0 22:20 ?        00:00:00 [writeback]
+root          28       2  0 22:20 ?        00:00:00 [kcompactd0]
+root          29       2  0 22:20 ?        00:00:00 [ksmd]
+root          30       2  0 22:20 ?        00:00:00 [khugepaged]
+root          31       2  0 22:20 ?        00:00:00 [kintegrityd]
+root          32       2  0 22:20 ?        00:00:00 [kblockd]
+root          33       2  0 22:20 ?        00:00:00 [blkcg_punt_bio]
+root          34       2  0 22:20 ?        00:00:00 [tpm_dev_wq]
+root          35       2  0 22:20 ?        00:00:00 [ata_sff]
+root          36       2  0 22:20 ?        00:00:00 [md]
+root          37       2  0 22:20 ?        00:00:00 [edac-poller]
+root          38       2  0 22:20 ?        00:00:00 [devfreq_wq]
+root          39       2  0 22:20 ?        00:00:00 [watchdogd]
+root          40       2  0 22:20 ?        00:00:00 [kworker/0:1H-kblockd]
+root          41       2  0 22:20 ?        00:00:00 [kswapd0]
+root          42       2  0 22:20 ?        00:00:00 [ecryptfs-kthread]
+root          48       2  0 22:20 ?        00:00:00 [kthrotld]
+root          52       2  0 22:20 ?        00:00:00 [acpi_thermal_pm]
+root          53       2  0 22:20 ?        00:00:00 [xenbus_probe]
+root          54       2  0 22:20 ?        00:00:00 [scsi_eh_0]
+root          55       2  0 22:20 ?        00:00:00 [scsi_tmf_0]
+root          56       2  0 22:20 ?        00:00:00 [scsi_eh_1]
+root          57       2  0 22:20 ?        00:00:00 [scsi_tmf_1]
+root          58       2  0 22:20 ?        00:00:00 [vfio-irqfd-clea]
+root          60       2  0 22:20 ?        00:00:00 [mld]
+root          61       2  0 22:20 ?        00:00:00 [ipv6_addrconf]
+root          66       2  0 22:20 ?        00:00:00 [kstrp]
+root          72       2  0 22:20 ?        00:00:00 [zswap-shrink]
+root          73       2  0 22:20 ?        00:00:00 [kworker/u3:0]
+root         119       2  0 22:20 ?        00:00:00 [charger_manager]
+root         162       2  0 22:20 ?        00:00:00 [scsi_eh_2]
+root         164       2  0 22:20 ?        00:00:00 [scsi_tmf_2]
+root         187       2  0 22:20 ?        00:00:00 [jbd2/sda3-8]
+root         188       2  0 22:20 ?        00:00:00 [ext4-rsv-conver]
+root         227       1  0 22:20 ?        00:00:00 /lib/systemd/systemd-journald
+root         259       2  0 22:20 ?        00:00:00 [irq/18-vmwgfx]
+root         260       2  0 22:20 ?        00:00:00 [card0-crtc0]
+root         261       2  0 22:20 ?        00:00:00 [card0-crtc1]
+root         262       2  0 22:20 ?        00:00:00 [card0-crtc2]
+root         263       2  0 22:20 ?        00:00:00 [card0-crtc3]
+root         264       2  0 22:20 ?        00:00:00 [card0-crtc4]
+root         265       2  0 22:20 ?        00:00:00 [card0-crtc5]
+root         266       2  0 22:20 ?        00:00:00 [card0-crtc6]
+root         268       2  0 22:20 ?        00:00:00 [card0-crtc7]
+root         280       1  0 22:20 ?        00:00:00 /lib/systemd/systemd-udevd
+root         363       2  0 22:20 ?        00:00:00 [cryptd]
+systemd+     425       1  0 22:20 ?        00:00:01 /lib/systemd/systemd-oomd
+systemd+     426       1  0 22:20 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     429       1  0 22:20 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         626       1  0 22:21 ?        00:00:00 /usr/libexec/accounts-daemon
+root         627       1  0 22:21 ?        00:00:00 /usr/sbin/acpid
+avahi        630       1  0 22:21 ?        00:00:00 avahi-daemon: running [mhill721-VirtualBox.local]
+root         633       1  0 22:21 ?        00:00:00 /usr/sbin/cron -f -P
+message+     634       1  0 22:21 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         635       1  0 22:21 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         648       1  0 22:21 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         649       1  0 22:21 ?        00:00:00 /usr/libexec/polkitd --no-debug
+root         652       1  0 22:21 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       655       1  0 22:21 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         664       1  0 22:21 ?        00:00:03 /usr/lib/snapd/snapd
+root         666       1  0 22:21 ?        00:00:00 /usr/libexec/switcheroo-control
+root         671       1  0 22:21 ?        00:00:00 /lib/systemd/systemd-logind
+root         681       1  0 22:21 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         683       1  0 22:21 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        700     630  0 22:21 ?        00:00:00 avahi-daemon: chroot helper
+root         716       1  0 22:21 ?        00:00:00 /usr/sbin/ModemManager
+root         719       1  0 22:21 ?        00:00:00 /usr/sbin/cupsd -l
+root         751       1  0 22:21 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         755       1  0 22:21 ?        00:00:00 /usr/sbin/gdm3
+root         765     755  0 22:21 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+mhill721     774       1  0 22:21 ?        00:00:00 /lib/systemd/systemd --user
+mhill721     778     774  0 22:21 ?        00:00:00 (sd-pam)
+root         792       1  0 22:21 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops     803       1  0 22:21 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     806       1  0 22:21 ?        00:00:00 /usr/sbin/kerneloops
+mhill721     841     774  0 22:21 ?        00:00:00 /usr/bin/pipewire
+mhill721     843     774  0 22:21 ?        00:00:00 /usr/bin/pipewire-media-session
+mhill721     844     774  0 22:21 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+mhill721     846       1  0 22:21 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+rtkit        851       1  0 22:21 ?        00:00:00 /usr/libexec/rtkit-daemon
+mhill721     855     765  0 22:21 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+mhill721     857     774  0 22:21 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+mhill721     865     855  0 22:21 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+mhill721     866     774  0 22:21 ?        00:00:00 /usr/libexec/gvfsd
+mhill721     880     774  0 22:21 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+mhill721     927     774  0 22:21 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+mhill721     977     774  0 22:21 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+mhill721    1002     774  4 22:21 ?        00:01:19 /usr/bin/gnome-shell
+mhill721    1005     977  0 22:21 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+mhill721    1016    1005  0 22:21 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+mhill721    1039     774  0 22:21 ?        00:00:00 /usr/libexec/xdg-permission-store
+mhill721    1044     774  0 22:21 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+mhill721    1050     774  0 22:21 ?        00:00:00 /usr/libexec/evolution-source-registry
+mhill721    1054     774  0 22:21 ?        00:00:00 /usr/libexec/dconf-service
+mhill721    1060     774  0 22:21 ?        00:00:00 /usr/libexec/goa-daemon
+root        1061       1  0 22:21 ?        00:00:00 /usr/libexec/upowerd
+mhill721    1065     774  0 22:21 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+mhill721    1085     774  0 22:21 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+mhill721    1089     774  0 22:21 ?        00:00:00 /usr/libexec/goa-identity-service
+mhill721    1095     774  0 22:21 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+mhill721    1106     774  0 22:21 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+mhill721    1114     774  0 22:21 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+mhill721    1122     774  0 22:21 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+mhill721    1127     774  0 22:21 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+root        1131       1  0 22:21 ?        00:00:07 /usr/libexec/packagekitd
+mhill721    1138     866  0 22:21 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+mhill721    1147     774  0 22:21 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+mhill721    1149     774  0 22:21 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+mhill721    1153     774  0 22:21 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+mhill721    1155     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+mhill721    1157    1153  0 22:21 ?        00:00:01 /usr/bin/ibus-daemon --panel disable
+mhill721    1158     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-color
+mhill721    1165     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-datetime
+mhill721    1167     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-housekeeping
+mhill721    1168     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-keyboard
+mhill721    1173     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-media-keys
+mhill721    1174     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-power
+mhill721    1179     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-print-notifications
+mhill721    1180     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-rfkill
+mhill721    1185     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+mhill721    1187     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-sharing
+mhill721    1194     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-smartcard
+mhill721    1199     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-sound
+mhill721    1204     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-wacom
+mhill721    1216     977  0 22:21 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+mhill721    1234     977  0 22:21 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+mhill721    1278     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-printer
+mhill721    1291    1157  0 22:21 ?        00:00:00 /usr/libexec/ibus-memconf
+mhill721    1292    1157  0 22:21 ?        00:00:01 /usr/libexec/ibus-extension-gtk3
+mhill721    1297     774  0 22:21 ?        00:00:00 /usr/libexec/ibus-portal
+mhill721    1367    1157  0 22:21 ?        00:00:00 /usr/libexec/ibus-engine-simple
+colord      1376       1  0 22:21 ?        00:00:00 /usr/libexec/colord
+mhill721    1385     774  0 22:21 ?        00:00:00 /usr/libexec/tracker-miner-fs-3
+mhill721    1386     774  0 22:21 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+mhill721    1394     774  0 22:21 ?        00:00:00 /usr/libexec/xdg-document-portal
+root        1399    1394  0 22:21 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+mhill721    1403     774  0 22:21 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+mhill721    1428     774  0 22:21 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+mhill721    1448     774  0 22:21 ?        00:00:00 /usr/libexec/gvfsd-metadata
+mhill721    1459    1002  0 22:21 ?        00:00:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:800:600:1:27:0:74:0:0
+mhill721    1467     774  0 22:21 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+mhill721    1476    1002  0 22:21 ?        00:00:02 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.P0HB51 -listen 4 -listen 5 -displayfd 6 -initfd 7
+mhill721    1510     774  0 22:21 ?        00:00:00 /usr/libexec/gsd-xsettings
+mhill721    1538     774  0 22:21 ?        00:00:00 /usr/libexec/ibus-x11
+root        1557       1  0 22:21 ?        00:00:00 /usr/libexec/ubuntu-advantage-desktop-daemon
+mhill721    1860     774  0 22:21 ?        00:00:00 /snap/snapd-desktop-integration/49/usr/bin/snapd-desktop-integration
+mhill721    2021    1860  0 22:21 ?        00:00:00 /snap/snapd-desktop-integration/49/usr/bin/snapd-desktop-integration
+mhill721    2040     977  0 22:22 ?        00:00:00 update-notifier
+mhill721    2325    1459  0 22:26 ?        00:00:00 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+mhill721    2326    2325  0 22:26 ?        00:00:00 /usr/bin/gnome-terminal.real --wait
+mhill721    2331     774  0 22:26 ?        00:00:05 /usr/libexec/gnome-terminal-server
+mhill721    2349    2331  0 22:26 pts/0    00:00:00 bash
+root        2360       2  0 22:27 ?        00:00:00 [kworker/0:1-events]
+root        3851       2  0 22:36 ?        00:00:00 [kworker/u2:2-events_unbound]
+mhill721    3881    1002  1 22:38 ?        00:00:11 /snap/snap-store/638/usr/bin/snap-store
+root        4075       1  0 22:38 ?        00:00:01 /usr/libexec/fwupd/fwupd
+root        4113       1  0 22:38 ?        00:00:00 gpg-agent --homedir /var/lib/fwupd/gnupg --use-standard-socket --daemon
+mhill721    5445     774  0 22:40 ?        00:00:00 /usr/bin/gnome-calendar --gapplication-service
+mhill721    5447     774  0 22:40 ?        00:00:00 /usr/bin/seahorse --gapplication-service
+mhill721    5538    1002  5 22:40 ?        00:00:38 /snap/firefox/2356/usr/lib/firefox/firefox
+mhill721    5712    5538  0 22:40 ?        00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -prefsLen 18730 -prefMapSize 225528 -appDir /snap/firefox/2356/usr/lib/firefox/browser {28c34c8c-ffd2-4fe8-b4de-97486a9deea4} 5538 true socket
+mhill721    5749    5538  0 22:40 ?        00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 21022 -prefMapSize 225528 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {10ab89db-54e8-4c38-b5f4-daa816547495} 5538 true tab
+mhill721    5771    5538  0 22:40 ?        00:00:01 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 22183 -prefMapSize 225528 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {b2d6926f-260f-4496-9b8c-50c28f5f301f} 5538 true tab
+mhill721    5818     774  0 22:40 ?        00:00:00 /usr/bin/snap userd
+mhill721    6333    5538  1 22:40 ?        00:00:09 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 29411 -prefMapSize 225528 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {fb20606e-dadb-41d6-8f6e-ee66e9934f4b} 5538 true tab
+mhill721    6362    5538  0 22:40 ?        00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 29551 -prefMapSize 225528 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {f3cfbdba-b061-46de-8886-8bfff23e703b} 5538 true tab
+mhill721    6391    5538  0 22:40 ?        00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 29885 -prefMapSize 225528 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {c9a66aee-ce50-4641-9990-dc911a05fd55} 5538 true tab
+mhill721    6412    5538  0 22:40 ?        00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -prefsLen 29885 -prefMapSize 225528 -appDir /snap/firefox/2356/usr/lib/firefox/browser {b99c5611-394b-4a58-9680-52a960a2df0e} 5538 true rdd
+mhill721    6414    5538  0 22:40 ?        00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -sandboxingKind 0 -prefsLen 29885 -prefMapSize 225528 -appDir /snap/firefox/2356/usr/lib/firefox/browser {f244af8c-9ef2-4edf-b8b9-a633420ae6a7} 5538 true utility
+mhill721    6426    5538  0 22:40 ?        00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 29885 -prefMapSize 225528 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {19be313d-7814-42b5-82e1-9a2c98f1de7a} 5538 true tab
+root        6912       2  0 22:46 ?        00:00:00 [kworker/0:0-cgroup_destroy]
+mhill721    6914     846  0 22:46 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root        7103       2  0 22:50 ?        00:00:00 [kworker/u2:0-events_power_efficient]
+mhill721    7336     774  1 22:51 ?        00:00:01 /usr/bin/nautilus --gapplication-service
+root        7390       2  0 22:52 ?        00:00:00 [kworker/0:2-events]
+root        7395       2  0 22:52 ?        00:00:00 [kworker/u2:3]
+mhill721    7622    2349  0 22:52 pts/0    00:00:00 ps -ef
